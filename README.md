@@ -84,7 +84,7 @@ Built by Tracy Anne Griffin Manning — FinOps x AI x Experimentation | #BuiltBy
 
 🚀 Setup (Local Dev)
 
-Clone this repo
+Clone this repo Comming Soon 
 
 Install dependencies: pip install -r requirements.txt
 
