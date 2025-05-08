@@ -81,3 +81,17 @@ Align with Amazon, Netflix, and Goldman Sachs tech & product strategy
 🪪 Author
 
 Built by Tracy Anne Griffin Manning — FinOps x AI x Experimentation | #BuiltByTAGM
+
+🚀 Setup (Local Dev)
+
+Clone this repo
+
+Install dependencies: pip install -r requirements.txt
+
+Create .env file with AWS credentials
+
+Run local simulation: python run_simulation.py
+
+View dashboard: streamlit run dashboard.py
+
+📄 License
